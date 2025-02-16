@@ -5,6 +5,8 @@ edition = "2021"
 
 [dependencies]
 reqwest = "0.12.12"
+serde = "1.0.217"
 tokio = "1.43.0"
+toml = "0.8.20"
 trust-dns = "0.23.2"
 trust-dns-proto = "0.23.2"
